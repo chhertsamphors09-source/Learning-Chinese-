@@ -7,7 +7,3 @@
 | 3 | 剧情 | jùqíng | noun | plot/storyline | ដំណើររឿង |
 | 4 | 目的 | mùdì | noun | purpose/goal | គោលបំណង |
 
-### Example Sentence
-- **Chinese:** 他的旅行目的很明确。
-- **English:** His travel goal is very clear.
-- **Khmer:** គោលបំណងធ្វើដំណើររបស់គាត់ច្បាស់ណាស់។
