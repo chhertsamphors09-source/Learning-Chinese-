@@ -1,13 +1,13 @@
-chinese-from-movies/
-├── README.md
-├── movie1-name/
-│   ├── scene1-dialogue.md
-│   ├── vocabulary.md
-│   └── phrases.md
-├── movie2-name/
-│   ├── scene1-dialogue.md
-│   ├── vocabulary.md
-│   └── phrases.md
-└── all-vocabulary/
-    ├── master-list.md
-    └── by-category.md
+movies/
+├── the-wandering-earth-流浪地球/
+│   ├── README.md
+│   ├── scene1-opening.md
+│   ├── scene2-family.md
+│   ├── vocabulary-all.md
+│   └── favorite-lines.md
+├── neuron-man-疯狂的外星人/
+│   ├── README.md
+│   ├── scene1.md
+│   └── vocabulary.md
+└── your-next-movie/
+    └── ...
