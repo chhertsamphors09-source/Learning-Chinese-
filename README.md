@@ -1,4 +1,8 @@
-#1. 演员 (yǎnyuán)#
-##Part of speech: noun##
-###Meaning: actor / actress###
-Khmer: តួសម្តែង
+# part one
+## words 
+## meaning 
+## part of speech 
+## khmer translate 
+## example 
+    
+# part two 
