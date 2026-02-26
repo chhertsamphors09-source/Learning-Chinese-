@@ -1,4 +1,3 @@
-# lesson 1
 # Lesson 1: Greetings 问候
 
 ## New Vocabulary 生词
